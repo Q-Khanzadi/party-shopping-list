@@ -4,3 +4,5 @@ Water
 Lemonade
 Coffee
 Tea
+Whiskey
+Beer
