@@ -1,2 +1,5 @@
 Fanta
 Pepsi
+Water
+Lemonade
+Coffee
