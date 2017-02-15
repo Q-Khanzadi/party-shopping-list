@@ -2,4 +2,5 @@ Fanta
 Pepsi
 Water
 Lemonade
-Coffee
+Whiskey
+Beer
